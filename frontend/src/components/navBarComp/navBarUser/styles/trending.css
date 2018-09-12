@@ -1,0 +1,15 @@
+.trending {
+    border: 1px ;
+    margin: auto;
+    width: 1000px;
+    overflow-y: auto;
+    height: 500px;
+}
+
+.trendingWithModal {
+    border: 1px ;
+    margin: auto;
+    width: 1000px;
+    overflow-y: auto;
+    height: 500px;
+}
